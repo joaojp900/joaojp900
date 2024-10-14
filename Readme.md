@@ -22,7 +22,7 @@
     | 
  <figure>
     <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <figcaption>CSS 3</figcaption>
+    <figcaption>CSS</figcaption>
 </figure>
     | 
 <figure>
@@ -35,11 +35,7 @@
     <figcaption>MYSQL</figcaption>
 </figure>
     | 
-<figure>
-    <img align="center" alt="React JS" height="40" width="40" src="https://img.icons8.com/?size=512&id=wPohyHO_qO1a&format=png">
-    <figcaption>React JS</figcaption>
-</figure>
-    | 
+ 
 <figure>
     <img align="center" alt="Tailwind CSS" height="40" width="40" src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png">
     <figcaption>Tailwind CSS</figcaption>
