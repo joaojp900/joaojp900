@@ -10,7 +10,7 @@ Minha formação técnica em Desenvolvimento de Sistemas pela **ETEC de Francisc
 ### Principais Ferramentas
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <figure style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" height="40" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdj9k_YYfi2Oe4LdX_E0VRuvWwzJlGNky-QA&s)" alt="Laravel" height="40" width="40"/>
     <figcaption>Laravel</figcaption>
   </figure>
   
@@ -45,19 +45,7 @@ Minha formação técnica em Desenvolvimento de Sistemas pela **ETEC de Francisc
   </figure>
 </div>
 
-### Experiência com Laravel
-- Criação de APIs RESTful com autenticação, utilizando **Sanctum** e **Passport**.
-- Implementação de sistemas complexos, como gerenciamento de clientes, pedidos, produtos e fornecedores, com foco em **controle empresarial**.
-- Uso de **Eloquent ORM** para manipulação eficiente de dados e construção de relacionamentos complexos entre tabelas.
-- Configuração e gerenciamento de ambientes de desenvolvimento com **Docker** e **Sail**.
-- Integração de APIs externas, como o **Mercado Livre**, e realização de testes com **Postman**.
-
-### Experiência com Vue.js
-- Desenvolvimento de interfaces dinâmicas e responsivas, integradas ao back-end Laravel.
-- Utilização de recursos como **componentes reutilizáveis**, **event handling** e **vue-router**.
-- Uso do **Axios** para consumo de APIs RESTful e exibição de dados em tempo real.
-- Gerenciamento de estado utilizando **Vuex** em aplicações mais complexas.
-- Integração com Tailwind CSS para um design moderno e responsivo.
+ 
 
 ## Posso Ser Encontrado em
 <div style="margin-top: 20px;">
