@@ -1,11 +1,7 @@
 ### Olá!  👋
 
 ## Sobre mim
- Meu nome é João Pedro Gabriel  e atualmente resido em Franco da Rocha- SP,
- Sou formado em Técnico de Análise e Desenvolvimento de Sistemas, e atualmente cursando Ciência da Computação  com experiência nas seguintes tecnologias: PHP (MVC) ,Laravel, MySQL, HTML, CSS, Bootstrap e JavaScript. 
- Tenho habilidades no desenvolvimento de aplicações web, utilizando frameworks e bibliotecas populares. Sou apaixonado por criar soluções
- eficientes e elegantes, sempre buscando melhorar a experiência do usuário e a qualidade do código. Estou constantemente aprendendo e acompanhando as tendências da indústria, para oferecer o melhor resultado possível nos meus projetos.
- Se você está procurando um colaborador comprometido e dedicado, estou à disposição para contribuir em projetos desafiadores.
+Sou um desenvolvedor back-end especializado em PHP e Laravel, com sólida experiência em criação de sistemas dinâmicos e escaláveis. Minha formação técnica em Desenvolvimento de Sistemas pela ETEC de Francisco Morato e minha graduação em Ciência da Computação me permitem aliar uma base teórica robusta a práticas modernas de desenvolvimento.
 
 ## Tecnologias
 - WEB
