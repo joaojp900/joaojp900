@@ -10,7 +10,7 @@ Minha formação técnica em Desenvolvimento de Sistemas pela **ETEC de Francisc
 ### Principais Ferramentas
  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
  <figure style="text-align: center;">
-   <img src=" " alt="Vue.js" height="40" width="40"/>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="40" width="40"/>
   <figcaption>Laravel</figcaption>
 </figure>
   
