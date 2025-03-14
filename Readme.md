@@ -8,7 +8,7 @@ Minha formação técnica em Desenvolvimento de Sistemas pela **ETEC de Francisc
 ## Tecnologias
 
 ### Principais Ferramentas
- <figure style="text-align: center;">
+ <figure >
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="40" width="40"/>
     <figcaption>Laravel</figcaption>
   </figure>
